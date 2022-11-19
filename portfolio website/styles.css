@@ -1,0 +1,157 @@
+                                                                    * {
+                                                                        margin: 0;
+                                                                        padding: 20px;
+                                                                    }
+                                                                    
+                                                                    .sidebar {
+                                                                        background-color: aquamarine;
+                                                                        font-family: 'Times New Roman', Times, serif;
+                                                                        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                                                        height: 100vh;
+                                                                    }
+                                                                    
+                                                                    .sidebar nav {
+                                                                        padding: 45px;
+                                                                    }
+                                                                    
+                                                                    .sidebar nav l1 {
+                                                                        list-style: none;
+                                                                        font-size: 30px;
+                                                                        padding: 3px 0;
+                                                                    }
+                                                                    
+                                                                    .sidebar nav l1 a {
+                                                                        text-decoration: none;
+                                                                        color: rgb(79, 173, 245);
+                                                                    }
+                                                                    
+                                                                    .main {
+                                                                        background-color: rgb(75, 11, 60);
+                                                                        width: 100vh;
+                                                                        font-display: inherit;
+                                                                    }
+                                                                    
+                                                                    .container {
+                                                                        display: flex;
+                                                                    }
+                                                                    
+                                                                    .infocontainer {
+                                                                        background-color: rgb(237, 156, 207);
+                                                                        width: 78vh;
+                                                                        wide: 80vw;
+                                                                        margin: 14px auto;
+                                                                        display: flex;
+                                                                        justify-content: space-around;
+                                                                    }
+                                                                    
+                                                                    .devinfo {
+                                                                        display: flex;
+                                                                        justify-content: center;
+                                                                        flex-direction: column;
+                                                                    }
+                                                                    
+                                                                    .hello {
+                                                                        font-size: 60px;
+                                                                    }
+                                                                    
+                                                                    .name {
+                                                                        font-size: 50px;
+                                                                        font-weight: bold;
+                                                                        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+                                                                    }
+                                                                    
+                                                                    .about {
+                                                                        font-size: 50px;
+                                                                    }
+                                                                    
+                                                                    .more {
+                                                                        font-size: 22px;
+                                                                        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                                                                    }
+                                                                    
+                                                                    .button {
+                                                                        margin-top: 34px;
+                                                                    }
+                                                                    
+                                                                    .button button {
+                                                                        padding: 9px 14px;
+                                                                        border-radius: 22px;
+                                                                        color: aliceblue;
+                                                                        background-color: rgb(91, 237, 111);
+                                                                        font-weight: bold;
+                                                                        font-size: 20px;
+                                                                        margin: 0 3px;
+                                                                        cursor: pointer;
+                                                                    }
+                                                                    
+                                                                    .button button:hover {
+                                                                        background-color: beige;
+                                                                        color: aqua;
+                                                                    }
+                                                                    
+                                                                    .devpic img {
+                                                                        width: 20vh;
+                                                                    }
+                                                                    
+                                                                    .blogitem {
+                                                                        margin: 20px;
+                                                                        font-family: Verdana, Geneva, Tahoma, sans-serif;
+                                                                    }
+                                                                    
+                                                                    .blogcontainer h1 {
+                                                                        font-family: fantasy;
+                                                                        margin: 23px;
+                                                                    }
+                                                                    
+                                                                    .blogitem p {
+                                                                        font-family: monospace;
+                                                                    }
+                                                                    
+                                                                    .intro h2 {
+                                                                        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                                                        margin: 12px;
+                                                                    }
+                                                                    
+                                                                    .intro p {
+                                                                        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                                                                        margin: 12px;
+                                                                    }
+                                                                    
+                                                                    .skillcontainer {
+                                                                        padding: 12px;
+                                                                    }
+                                                                    
+                                                                    .skillitem {
+                                                                        display: flex;
+                                                                        align-items: "centre";
+                                                                    }
+                                                                    
+                                                                    .skill {
+                                                                        width: 256px;
+                                                                        height: 6px;
+                                                                        background-color: rgb(10, 96, 29);
+                                                                        border: 2px solid rgb(89, 13, 101);
+                                                                    }
+                                                                    
+                                                                    .hundred {
+                                                                        width: 265px;
+                                                                        background-color: chartreuse;
+                                                                    }
+                                                                    
+                                                                    .fifty {
+                                                                        width: 125px;
+                                                                        background-color: darkgreen;
+                                                                    }
+                                                                    
+                                                                    .t5 {
+                                                                        width: 75px;
+                                                                        background-color: rgb(241, 186, 47);
+                                                                    }
+                                                                    
+                                                                    .sidebar {
+                                                                        {
+                                                                            transform: 465px, 10px;
+                                                                        }
+                                                                        ;
+                                                                        position: relative;
+                                                                    }
